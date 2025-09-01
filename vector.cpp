@@ -11,6 +11,5 @@ cout<<"Capacity of Vector 1:"<<v.capacity()<<endl;
 v.push_back(3);
 cout<<"Size of Vector 1:"<<v.size()<<endl;
 cout<<"Capacity of Vector 1:"<<v.capacity()<<endl;
-
 return 0;
 }
